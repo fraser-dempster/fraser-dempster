@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/fraser-dempster-0470641ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Gmail Badge"/>
-  </a>
 </div>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fraser-dempster" alt="GitHub Streak" /></a>
 
