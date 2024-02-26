@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXYwcWwzaWJ6eDV1eTNmbGR0czk3cHlrZjJnZW56MWp5aHNnNzUxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRgqJIdbRp7Exfa/giphy.gif" width="100"/>
-</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/fraser-dempster-0470641ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
