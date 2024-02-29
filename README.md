@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hey there 👋
 I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test, and deploy multiple applications to provide the best experience for our retail investing customers.
 
 - I'm currently working on 
