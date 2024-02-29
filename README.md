@@ -17,7 +17,7 @@ I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test
 #### Testing
 [![Testing](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,webpack,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,webpack,notion,figma)](https://skillicons.dev)
 #### DevOps
 [![DevOps](https://skillicons.dev/icons?i=jenkins,openshift)](https://skillicons.dev)
 #### Version Control
