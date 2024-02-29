@@ -4,7 +4,7 @@ My name is Fraser, currently a Full Stack Developer at Barclays where I build, t
 I enjoy working on my own projects whilst discovering and learning new technologies. You can find out more about me and a few of me projects on my website: [fraserdempster.com](fraserdempster.com).
 
 
-
+### Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraser-dempster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
