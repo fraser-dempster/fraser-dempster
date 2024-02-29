@@ -16,19 +16,19 @@ I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test
 ### Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraser-dempster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 #### Languages
-[![My Languages](https://skillicons.dev/icons?i=js,ts,java,py&theme=light)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,java,py&theme=light)](fraserdempster.com)
 #### UI
-[![UI Skills](https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,css,html&theme=light)](https://skillicons.dev)
+[![UI Skills](https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,css,html&theme=light)](fraserdempster.com)
 #### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=light)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=light)](fraserdempster.com)
 #### Testing
-[![Testing](https://skillicons.dev/icons?i=jest,cypress&theme=light)](https://skillicons.dev)
+[![Testing](https://skillicons.dev/icons?i=jest,cypress&theme=light)](fraserdempster.com)
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,webpack,notion,figma&theme=light)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,webpack,notion,figma&theme=light)](fraserdempster.com)
 #### DevOps
-[![DevOps](https://skillicons.dev/icons?i=jenkins,openshift&theme=light)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=jenkins,openshift&theme=light)](fraserdempster.com)
 #### Version Control
-[![My Languages](https://skillicons.dev/icons?i=github,gitlab,bitbucket&theme=light)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=github,gitlab,bitbucket&theme=light)](fraserdempster.com)
 
 ### Contributions
 <a style="display: flex; justify: center;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fraser-dempster" alt="GitHub Streak" /></a>
