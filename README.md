@@ -16,7 +16,7 @@ I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test
 ### Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraser-dempster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 #### Languages
-[![My Languages](https://skillicons.dev/icons?i=js,ts,java,py&theme=light)](fraserdempster.com)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,java,py&theme=light)](https://fraserdempster.com)
 #### UI
 [![UI Skills](https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,css,html&theme=light)](fraserdempster.com)
 #### Backend
