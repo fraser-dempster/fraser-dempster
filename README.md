@@ -8,8 +8,11 @@ I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test
 
 ### Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraser-dempster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+</div>
+
 ### Contact Me
 <div id="badges">
   <a href="https://www.linkedin.com/in/fraser-dempster-0470641ba/">
