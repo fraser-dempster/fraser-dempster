@@ -11,15 +11,15 @@ I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test
 #### Languages
 [![My Languages](https://skillicons.dev/icons?i=js,ts,java,py,html,css)](https://skillicons.dev)
 #### UI
-[![My Languages](https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,css,html)](https://skillicons.dev)
+[![UI Skills](https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,css,html)](https://skillicons.dev)
 #### Backend
-[![My Languages](https://skillicons.dev/icons?i=nodejs,spring,fastapi)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi)](https://skillicons.dev)
 #### Testing
-[![My Languages](https://skillicons.dev/icons?i=jest,junit,cypress)](https://skillicons.dev)
+[![Testing](https://skillicons.dev/icons?i=jest,cypress)](https://skillicons.dev)
 #### Tools
-[![My Languages](https://skillicons.dev/icons?i=vscode,idea,notion)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,webpack,notion)](https://skillicons.dev)
 #### DevOps
-[![My Languages](https://skillicons.dev/icons?i=jenkins,openshift)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=jenkins,openshift)](https://skillicons.dev)
 #### Version Control
 [![My Languages](https://skillicons.dev/icons?i=github,gitlab,bitbucket)](https://skillicons.dev)
 ### Contact Me
