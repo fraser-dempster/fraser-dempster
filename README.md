@@ -8,7 +8,7 @@ I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test
 
 ### Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraser-dempster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,angular, aws, bitbucket, bootstrap,electron,fastapi,flutter,github,gitlab,gradle,idea,java,ts,jenkins,jest,nestjs,notion,nodejs,openshift,py,react,redux,spring,tailwind,vscode, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,webpack,angular,aws,bitbucket,bootstrap,electron,fastapi,flutter,github,gitlab,gradle,idea,java,ts,jenkins,jest,nestjs,notion,nodejs,openshift,py,react,redux,spring,tailwind,vscode)](https://skillicons.dev)
 
 ### Contact Me
 <div id="badges">
