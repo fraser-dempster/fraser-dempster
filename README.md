@@ -18,17 +18,17 @@ I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test
 #### Languages
 [![My Languages](https://skillicons.dev/icons?i=js,ts,java,py&theme=light)](https://fraserdempster.com)
 #### UI
-[![UI Skills](https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,css,html&theme=light)](fraserdempster.com)
+[![UI Skills](https://skillicons.dev/icons?i=angular,react,nextjs,redux,tailwind,bootstrap,css,html&theme=light)](https://fraserdempster.com)
 #### Backend
-[![Backend Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=light)](fraserdempster.com)
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,spring,fastapi&theme=light)](https://fraserdempster.com)
 #### Testing
-[![Testing](https://skillicons.dev/icons?i=jest,cypress&theme=light)](fraserdempster.com)
+[![Testing](https://skillicons.dev/icons?i=jest,cypress&theme=light)](https://fraserdempster.com)
 #### Tools
-[![Tools](https://skillicons.dev/icons?i=vscode,idea,webpack,notion,figma&theme=light)](fraserdempster.com)
+[![Tools](https://skillicons.dev/icons?i=vscode,idea,webpack,notion,figma&theme=light)](https://fraserdempster.com)
 #### DevOps
-[![DevOps](https://skillicons.dev/icons?i=jenkins,openshift&theme=light)](fraserdempster.com)
+[![DevOps](https://skillicons.dev/icons?i=jenkins,openshift&theme=light)](https://fraserdempster.com)
 #### Version Control
-[![My Languages](https://skillicons.dev/icons?i=github,gitlab,bitbucket&theme=light)](fraserdempster.com)
+[![My Languages](https://skillicons.dev/icons?i=github,gitlab,bitbucket&theme=light)](https://fraserdempster.com)
 
 ### Contributions
 <a style="display: flex; justify: center;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fraser-dempster" alt="GitHub Streak" /></a>
