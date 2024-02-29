@@ -1,5 +1,6 @@
 ### Hi there 👋
 My name is Fraser, currently a Full Stack Developer at Barclays where I build, test, and deploy multiple applications to provide the best experience for our retail investing customers.
+
 I enjoy working on my own projects whilst discovering and learning new technologies. I've just finished my portfolio which can be found here: [fraserdempster.com](fraserdempster.com)
 <div id="badges">
   <a href="https://www.linkedin.com/in/fraser-dempster-0470641ba/">
