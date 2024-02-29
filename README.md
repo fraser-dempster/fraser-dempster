@@ -10,7 +10,7 @@ I enjoy working on my own projects whilst discovering and learning new technolog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraser-dempster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fraser-dempster" alt="GitHub Streak" /></a>
+<a style="display: flex; justify: center;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fraser-dempster" alt="GitHub Streak" /></a>
 
 
 <!--
