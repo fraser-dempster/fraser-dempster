@@ -8,7 +8,7 @@ I enjoy working on my own projects whilst discovering and learning new technolog
   </a>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?fraser-dempster)
+![Profile Views](https://komarev.com/ghpvc/?username=fraser-dempster)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fraser-dempster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
