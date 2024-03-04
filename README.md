@@ -1,9 +1,9 @@
 ## Hey there 👋
 I'm **Fraser**, currently a Full Stack Developer at Barclays where I build, test, and deploy multiple applications to provide the best experience for our retail investing customers.
 
-- 🔭 I’m currently working on [fraserdempster.com](fraserdempster.com)
+- 🔭 I’m currently working on [www.fraserdempster.com](fraserdempster.com)
 - 🌱 I’m currently learning Tailwind CSS, Electron, and FastAPI
-- 📫 All of my projects are available at [fraserdempster.com](fraserdempster.com)
+- 📫 All of my projects are available at [www.fraserdempster.com](fraserdempster.com)
 - ⚡ I like to learn about the latest technologies and best practices through Youtube, blogs, and newsletters!
 
 ### Contact Me
